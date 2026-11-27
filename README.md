@@ -1,4 +1,4 @@
-### GigsHub – Weekly Project
+# GigsHub – Weekly Project
 
 ## Week 1 (13 November 2026)
 ## Software Requirement Specification (SRS)
