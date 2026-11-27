@@ -1,15 +1,19 @@
-Weekly Progress
+### GigsHub – Weekly Project
 
-WEEK 1
+## Week 1 (13 November 2026)
+## Software Requirement Specification (SRS)
+
+Pada minggu pertama, dilakukan penyusunan dokumen Software Requirement Specification (SRS) untuk aplikasi GigsHub. Dokumen ini berisi identifikasi kebutuhan sistem, tujuan pengembangan aplikasi, fitur-fitur utama, serta gambaran fungsionalitas aplikasi yang akan dikembangkan. SRS digunakan sebagai pedoman dan acuan dalam proses pengembangan aplikasi pada minggu-minggu berikutnya.
 Merancang awalan untuk srs
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/738d1424-9f85-4345-ae89-cea9c34034aa" />
 
-WEEK 2
-Membuat repository dan commit awal
+## Week 2 (20 November 2026)
+## GitHub Repository Setup
+
+Pada minggu kedua, dilakukan pembuatan repository GitHub sebagai tempat penyimpanan dan pengelolaan source code project GigsHub. Selain itu, dilakukan initial commit sebagai langkah awal untuk memulai dokumentasi dan version control project. Tahap ini bertujuan agar setiap perkembangan dan perubahan kode selama proses pengembangan dapat tersimpan serta terorganisir dengan baik.
 <img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/c465d610-8c80-4828-881a-b99f00e237d1" />
 
 ## WEEK 3 (27 November 2026)
-
 ### Inisialisasi Proyek dan Pengembangan Tampilan Awal
 
 Pada minggu ketiga, pengembangan awal aplikasi **GigsHub – Event, Concert, & E-Ticket Companion App** mulai dilakukan menggunakan Android Studio.
